@@ -1,0 +1,28 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: file://${user.home}/application-config
+#spring:
+#  application:
+#    name: config-server
+#  profiles:
+#    active: composite
+#  cloud:
+#    config:
+#      server:
+#        composite:
+#          - type: native
+#            search-locations: ${HOME}/Desktop/config
+#        bootstrap: true
+eureka:
+  client:
+    region: default
+    service-url:
+      defaultZone: http://localhost:9001/eureka

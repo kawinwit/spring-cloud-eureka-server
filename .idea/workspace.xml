@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a3456c4-c843-4739-87a2-c5cc4e100d2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c78RCgnOeDKmtdHtRgSx9kTksY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sample-spring-microservices-new-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.smile.service.response" />
+      <recent name="com.smile.service.entity" />
+      <recent name="com.smile.service.repository" />
+      <recent name="com.smile.service.controller" />
+      <recent name="com.smile.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\demo-spring-microservices-master\spring-microservices" />
+      <recent name="C:\demo-spring-microservices-master\demo-spring-microservices-master\svc-agent\src\main\resources" />
+      <recent name="C:\demo-spring-microservices-master\demo-spring-microservices-master\svc-test\src\main\resources" />
+      <recent name="C:\demo-spring-microservices-master\demo-spring-microservices-master\svc-agent\src\main\java\com\smile\service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn spring-boot:run -Dserver.port=8084" />
+      <command value="mvn spring-boot:run -Dserver.port=8083" />
+      <command value="mvn clean install" />
+      <command value="mvn spring-boot:run" />
+      <command value="mvn package" />
+      <command value="mvn spring-boot:run -Dserver.port=8089" />
+      <command value="mvn spring-boot:run -Dserver.port=8090" />
+    </option>
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$/giftup" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AgentApplication">
+    <configuration name="AgentApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.service.AgentApplication" />
+      <module name="svc-agent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smile.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.config.ConfigServerApplication" />
+      <module name="config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.gateway.GatewayApplication" />
+      <module name="gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smile.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceDiscoveryApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.discovery.ServiceDiscoveryApplication" />
+      <module name="discovery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.discovery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.service.TestApplication" />
+      <module name="svc-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smile.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AgentApplication" />
+        <item itemvalue="Application.ServiceDiscoveryApplication (1)" />
+        <item itemvalue="Application.TestApplication" />
+        <item itemvalue="Application.GatewayApplication" />
+        <item itemvalue="Application.ConfigServerApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3456c4-c843-4739-87a2-c5cc4e100d2c" name="Default Changelist" comment="" />
+      <created>1589868260835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589868260835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="238" key="#Project_Structure" timestamp="1607662935984">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1607662935984" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1607667498242">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1607667498242" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1608282295689">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1608282295689" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1608282295689">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1608282295689" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1608282295689">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1608282295689" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1608282295689">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1608282295689" />
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1607913900182">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1607913900182" />
+    <state x="656" y="312" width="607" height="536" key="find.popup" timestamp="1608282207610">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="656" y="312" width="607" height="536" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1608282207610" />
+    <state x="616" y="270" width="672" height="677" key="run.anything.popup" timestamp="1608281988014">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="270" width="672" height="677" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1608281988014" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo_spring_microservices$AgentApplication.ic" NAME="AgentApplication Coverage Results" MODIFIED="1590028089584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.smile.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/demo_spring_microservices$TestApplication.ic" NAME="TestApplication Coverage Results" MODIFIED="1590486842755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.smile.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>

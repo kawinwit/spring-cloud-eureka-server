@@ -1,0 +1,18 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: test-service
+  sleuth:
+    sampler:
+      probability: 1.0
+
+feign:
+  hystrix:
+    enabled: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9001/eureka
